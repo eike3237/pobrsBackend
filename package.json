@@ -1,0 +1,28 @@
+{
+  "name": "pobrsbackend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000o\u0000b\u0000r\u0000s\u0000F\u0000r\u0000o\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVictoor20/PobrsBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoVictoor20/PobrsBackend/issues"
+  },
+  "homepage": "https://github.com/JoaoVictoor20/PobrsBackend#readme"
+}
